@@ -31,7 +31,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+ 
 Skills
 ======
 * Skill 1
@@ -61,4 +61,5 @@ Teaching
   
 Service and leadership
 ======
+* Reviewer, LCFM 2025 - Workshop on Long Context Foundation Models
 * Currently signed in to 43 different slack teams
